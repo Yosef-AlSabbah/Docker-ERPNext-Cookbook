@@ -88,5 +88,3 @@ After restarting the queue containers:
 ---
 
 > *Authored by Yousef M. Y. Al Sabbah – August 2025*
-Would you like me to generate this now as a `.md` file for you to download and commit to GitHub?
-```
